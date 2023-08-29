@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78596a70-68ce-4fb0-8eab-278df350a84f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../pw3-viagem/src/main/java/br/com/etechoracio/viagem/entity/Gastos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pw3-viagem/src/main/java/br/com/etechoracio/viagem/entity/viagem.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Uet7GaQskvYCO0O0xfVw0Q4a6X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "A:/pw3-viagem/PW"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78596a70-68ce-4fb0-8eab-278df350a84f" name="Changes" comment="" />
+      <created>1693311705026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693311705026</updated>
+    </task>
+    <servers />
+  </component>
+</project>
